@@ -48,8 +48,6 @@ a:hover{
 /* Main */
 	.left{
 		width: 250px;
-		border: 1px solid #dedede;
-		background: #e5e5e5;
 		padding: 10px;
 		margin: 10px;
 		float: left;
@@ -107,4 +105,8 @@ a:hover{
 }
 .tulis{
 	padding-top: 50px;
+}
+.navbar img{
+	height: 50px;
+	margin-top:  -13px;
 }
